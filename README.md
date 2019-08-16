@@ -13,6 +13,6 @@ Group 3: x - x = 0                         (108,  01.05%)
 Unclassified                               (31,   00.43%)
 ```
 
-Files `.po` contain all OP found and extracted (one OP per line).
+Files `.po` contain all OP found and extracted (one OP per line and each SymVar is a 8 bits symbolic variable).
 
 Related work: [Backward-Bounded DSE: Targeting Infeasibility Questions on Obfuscated Codes](http://sebastien.bardin.free.fr/2017-sp.pdf)
