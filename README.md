@@ -2,7 +2,7 @@ IDA+Triton plugin in order to extract opaque predicates where their computation 
 block using a Forward-Bounded DSE.
 
 We tested the plugin on the X-Tunnel (99B454262DC26B081600E844371982A49D334E5E) malware in order to extract
-all its opaque predicates (some stats: 50,302 conditions analyzed in 23 minutes and 7029 opaque predicates
+all its opaque predicates (some stats: 50,302 conditions analyzed in 23 minutes and 7209 opaque predicates
 found). We can see that most of OP are mainly constructed in three forms but we also found 31 others ones
 without any particular form. Repartition of opaque predicates by form is detailed below:
 
